@@ -1,0 +1,18 @@
+{
+    "$schema": "https://ui.shadcn.com/schema/registry.json",
+    "name": "Additional Blocks",
+    "homepage": "https://acme.com",
+    "items": [
+        {
+            "name": "basic-hero-block",
+            "type": "registry:block",
+            "title": "Hero section",
+            "description": "A responsive hero section built with Next.js + shadcn/ui.",
+            "registryDependencies": [
+                "Card",
+                "Button"
+            ],
+            "path": "registry/new-york/blocks/basic-hero-block.tsx"
+        }
+    ]
+}

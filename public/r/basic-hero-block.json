@@ -1,0 +1,11 @@
+{
+  "$schema": "https://ui.shadcn.com/schema/registry-item.json",
+  "name": "basic-hero-block",
+  "type": "registry:block",
+  "title": "Hero section",
+  "description": "A responsive hero section built with Next.js + shadcn/ui.",
+  "registryDependencies": [
+    "Card",
+    "Button"
+  ]
+}
