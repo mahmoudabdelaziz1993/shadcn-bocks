@@ -9,8 +9,8 @@
             "title": "Hero section",
             "description": "A responsive hero section built with Next.js + shadcn/ui.",
             "registryDependencies": [
-                "Card",
-                "Button"
+                "card",
+                "button"
             ],
             "path": "registry/new-york/blocks/basic-hero-block.tsx"
         }
